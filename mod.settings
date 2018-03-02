@@ -1,8 +1,8 @@
-name        = "Tachi\'s Emergency Siege++ Fixes""
-source_dir  = "source/"
-output_dir  = "output/"
-description = [=[Tachi\'s \'OH NO SIEGE++ IS BROKEN Siege++ Fixes\']=]
+name        = "Tachi's Emergency Siege++ Fixes"
+source_dir  = "source"
+output_dir  = "output"
+description = [=[Tachi's 'OH NO SIEGE++ IS BROKEN Siege++' Fixes]=]
 image       = "preview.jpg"
 tag_modtype = ""
-tag_support = ""
+tag_support = "Must be run on Server"
 publish_id = "4e7a87d3"

@@ -1,4 +1,0 @@
-modEntry = {
-	FileHooks = "lua/siegemonkeypatch/BeforeFileHook.lua",
-	Priority = -4
-}
