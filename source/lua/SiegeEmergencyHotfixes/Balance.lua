@@ -1,0 +1,1 @@
+kRailgunChargeDamage=135
