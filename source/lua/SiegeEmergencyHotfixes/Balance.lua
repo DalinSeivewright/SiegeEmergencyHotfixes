@@ -1,1 +1,1 @@
-kRailgunChargeDamage=135
+-- No Hotfixes Needed Right Now!
